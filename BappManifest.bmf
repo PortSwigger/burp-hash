@@ -1,6 +1,7 @@
 Uuid: 34db77290bca46f1b2321bbe5e116ff2
 ExtensionType: 1
 Name: Burp-hash
+RepoName: burp-hash
 ScreenVersion: 1.0
 SerialVersion: 1
 MinPlatformVersion: 0
